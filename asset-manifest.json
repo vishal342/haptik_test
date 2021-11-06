@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/haptik_test/static/css/main.08ca9f97.chunk.css",
+    "main.js": "/haptik_test/static/js/main.560fa2fb.chunk.js",
+    "main.js.map": "/haptik_test/static/js/main.560fa2fb.chunk.js.map",
+    "runtime-main.js": "/haptik_test/static/js/runtime-main.74d980d6.js",
+    "runtime-main.js.map": "/haptik_test/static/js/runtime-main.74d980d6.js.map",
+    "static/js/2.c743e093.chunk.js": "/haptik_test/static/js/2.c743e093.chunk.js",
+    "static/js/2.c743e093.chunk.js.map": "/haptik_test/static/js/2.c743e093.chunk.js.map",
+    "static/js/3.f591acd1.chunk.js": "/haptik_test/static/js/3.f591acd1.chunk.js",
+    "static/js/3.f591acd1.chunk.js.map": "/haptik_test/static/js/3.f591acd1.chunk.js.map",
+    "index.html": "/haptik_test/index.html",
+    "static/css/main.08ca9f97.chunk.css.map": "/haptik_test/static/css/main.08ca9f97.chunk.css.map",
+    "static/js/2.c743e093.chunk.js.LICENSE.txt": "/haptik_test/static/js/2.c743e093.chunk.js.LICENSE.txt",
+    "static/media/favorite-fill.2197fa7d.png": "/haptik_test/static/media/favorite-fill.2197fa7d.png",
+    "static/media/favorite.92d8aeab.png": "/haptik_test/static/media/favorite.92d8aeab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d980d6.js",
+    "static/js/2.c743e093.chunk.js",
+    "static/css/main.08ca9f97.chunk.css",
+    "static/js/main.560fa2fb.chunk.js"
+  ]
+}
